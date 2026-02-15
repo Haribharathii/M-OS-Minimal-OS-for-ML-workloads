@@ -1,0 +1,10 @@
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/main/gdt.gdb
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/mm/pagetable.gdb
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/mm/page.py
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/mm/memcheck.py
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/mm/slab.py
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/proc/kthread.gdb
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/proc/proc.py
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/util/debug.py
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/util/list.py
+source /home/student/Desktop/Assignments/Kernel1/good_p/weenix/kernel/vm/vmmap.gdb

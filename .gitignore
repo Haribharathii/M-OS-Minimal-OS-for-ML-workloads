@@ -1,0 +1,13 @@
+.netrc
+*.log
+*.o
+*.d
+*.tar.gz
+*.gdb
+*.swp
+*.img
+*.iso
+hari.txt
+hari.log
+remove_watermarks.py
+remove_personal_info.py
